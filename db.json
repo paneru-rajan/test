@@ -1,4 +1,5 @@
-[
+{
+  "data": [
 {
 "name":"Name1",
 "code": "Code1",
@@ -10,5 +11,6 @@
 "code": "Code2",
 "location": "Location2",
 "image": "https://picsum.photos/50/50/?random"
-},
-]
+}
+    ]
+}
