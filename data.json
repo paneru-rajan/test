@@ -3,12 +3,12 @@
 "name":"Name1",
 "code": "Code1",
 "location": "Location1"
-"image":"https://picsum.photos/50/50/?random"
+"image": "https://picsum.photos/50/50/?random"
 },
 {
 "name":"Name2",
 "code": "Code2",
 "location": "Location2"
-"image":"https://picsum.photos/50/50/?random"
+"image": "https://picsum.photos/50/50/?random"
 },
 ]
